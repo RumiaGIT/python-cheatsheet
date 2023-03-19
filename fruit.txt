@@ -4,5 +4,3 @@ Pomelo
 Kiwi
 Pear
 Lychee
-Lychee
-Lychee
